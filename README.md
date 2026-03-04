@@ -80,3 +80,4 @@ Agent teammates that grow with you
 [sponsor-shield]: https://img.shields.io/badge/-Sponsor%20LobeHub-f04f88?logo=opencollective&logoColor=white&style=flat-square
 [vercel-link]: https://lobehub.com
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Flobehub.com
+[parent-org-link]: https://github.com/lobehub
